@@ -13,6 +13,8 @@ Ing. Nicolás Álvarez
 
 Claudio Omar Biale
 
+## Detalle del trabajo
+
 Puntos desarrollados de la Guía de VHDL.
 
 Cada ejercicio implementado tiene su generador de pruebas el cual invoca a GtkWave.
