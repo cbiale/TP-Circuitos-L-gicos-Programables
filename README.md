@@ -1,7 +1,17 @@
-Materia: Circuitos Lógicos Programables
-Carrera: Maestría en Internet de las Cosas (Especialización en Sistemas Embebidos)
-Docente: Ing. Nicolás Álvarez
-Alumno: Claudio Omar Biale
+## Materia
+
+Circuitos Lógicos Programables
+## Carrera
+
+Maestría en Internet de las Cosas (Especialización en Sistemas Embebidos)
+
+## Docente
+
+Ing. Nicolás Álvarez
+
+## Alumno
+
+Claudio Omar Biale
 
 Puntos desarrollados de la Guía de VHDL.
 
