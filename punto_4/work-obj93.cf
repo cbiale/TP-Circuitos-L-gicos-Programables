@@ -1,0 +1,7 @@
+v 4
+file . "multiplexor_tb.vhd" "49f0ee83582b34b4b47081ad55ea23c4f74be63d" "20240813200947.731":
+  entity multiplexor_tb at 1( 0) + 0 on 17;
+  architecture multiplexor_tb_arq of multiplexor_tb at 8( 116) + 0 on 18;
+file . "multiplexor.vhd" "7502393733a29acd6c2062f4a28c167a388a33a2" "20240813200947.715":
+  entity multiplexor at 1( 0) + 0 on 15;
+  architecture multiplexor_arq of multiplexor at 17( 526) + 0 on 16;

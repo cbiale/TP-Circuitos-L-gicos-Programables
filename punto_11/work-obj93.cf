@@ -1,0 +1,7 @@
+v 4
+file . "contador_binario.vhd" "2d7f9c2c051cb25bcc3de0402701cf63452b299d" "20240813201940.751":
+  entity contador_binario at 1( 0) + 0 on 47;
+  architecture contador_binario_arq of contador_binario at 14( 267) + 0 on 48;
+file . "contador_binario_tb.vhd" "9a1f7ab3065f9e3e2ab4905b9ae4ee561830ba9e" "20240813201940.763":
+  entity contador_binario_tb at 1( 0) + 0 on 49;
+  architecture contador_binario_arq of contador_binario_tb at 7( 100) + 0 on 50;

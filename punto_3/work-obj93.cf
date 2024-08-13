@@ -1,0 +1,10 @@
+v 4
+file . "sumador_restador_4_bits_tb.vhd" "73bf2ce5ee5f0d25e150534feaba9e75f7c30956" "20240813200854.344":
+  entity sumador_restador_4_bits_tb at 1( 0) + 0 on 15;
+  architecture sumador_restador_4_bits_tb_arq of sumador_restador_4_bits_tb at 7( 121) + 0 on 16;
+file . "sumador_completo.vhd" "969e3a7c1afeff95c42a0a347c31ab85179de2ea" "20240813200854.320":
+  entity sumador_completo at 1( 0) + 0 on 11;
+  architecture sumador_completo_arq of sumador_completo at 11( 180) + 0 on 12;
+file . "sumador_restador_4_bits.vhd" "1b77b2b68b33a966a884e15c9569454b299e0e4d" "20240813200854.333":
+  entity sumador_restador_4_bits at 1( 0) + 0 on 13;
+  architecture sumador_restador_4_bits_arq of sumador_restador_4_bits at 13( 303) + 0 on 14;

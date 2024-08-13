@@ -1,0 +1,10 @@
+v 4
+file . "contador_binario.vhd" "580e77510df689fafa05ec87190c11fef43785a1" "20240813201908.907":
+  entity contador_binario at 1( 0) + 0 on 59;
+  architecture contador_binario_arq of contador_binario at 13( 241) + 0 on 60;
+file . "flip_flop.vhd" "03dda26f094c48a65afaeb95021f9107363f42f7" "20240813201908.893":
+  entity flip_flop at 1( 0) + 0 on 57;
+  architecture flip_flop_arq of flip_flop at 11( 209) + 0 on 58;
+file . "contador_binario_tb.vhd" "f560d3a59a949ab7132567706e6d9d4a6d4dc0be" "20240813201908.921":
+  entity contador_binario_tb at 1( 0) + 0 on 61;
+  architecture contador_binario_arq of contador_binario_tb at 7( 100) + 0 on 62;

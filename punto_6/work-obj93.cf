@@ -1,0 +1,10 @@
+v 4
+file . "registro_desplazamiento.vhd" "00a9c9b63e060d338ccc122d309701c347a571bf" "20240813201513.147":
+  entity registro_desplazamiento at 1( 0) + 0 on 63;
+  architecture registro_desplazamiento_arq of registro_desplazamiento at 10( 199) + 0 on 64;
+file . "flip_flop.vhd" "c77bab52559c3dbab64188d40b0e287abe665a70" "20240813201513.135":
+  entity flip_flop at 1( 0) + 0 on 61;
+  architecture flip_flop_arq of flip_flop at 12( 233) + 0 on 62;
+file . "registro_desplazamiento_tb.vhd" "b215c0a415c375e9d4d76efe8020bdc2e77fa482" "20240813201513.158":
+  entity registro_desplazamiento_tb at 1( 0) + 0 on 65;
+  architecture registro_desplazamiento_tb_arq of registro_desplazamiento_tb at 7( 114) + 0 on 66;

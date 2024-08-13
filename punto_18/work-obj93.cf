@@ -1,0 +1,13 @@
+v 4
+file . "componente_superior_tb.vhd" "5f1363eaf1931193db78e27bd15103e61b7b302b" "20240813215448.384":
+  entity componente_superior_tb at 1( 0) + 0 on 31;
+  architecture componente_superior_tb_arq of componente_superior_tb at 7( 106) + 0 on 32;
+file . "contador_bcd.vhd" "b740b6d636227f8890b2b13ff08fdc64f88a8a9f" "20240813215448.340":
+  entity contador_bcd at 1( 0) + 0 on 25;
+  architecture contador_bcd_arq of contador_bcd at 12( 267) + 0 on 26;
+file . "ffd.vhd" "5ec2fcecc59c7e47ca765fc82d2986aaa3581b27" "20240813215448.355":
+  entity ffd at 1( 0) + 0 on 27;
+  architecture ffd_arq of ffd at 13( 197) + 0 on 28;
+file . "componente_superior.vhd" "fcc8050d8af2c2e4d5a496bcd736bc308354e8a5" "20240813215448.371":
+  entity componente_superior at 1( 0) + 0 on 29;
+  architecture componente_superior_arq of componente_superior at 18( 352) + 0 on 30;
